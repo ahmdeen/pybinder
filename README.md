@@ -1,2 +1,2 @@
 # pybinder
-A repository of Python Notebooks primarily for mobile developbent
+A repository of Python Notebooks primarily for mobile development
